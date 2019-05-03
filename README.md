@@ -7,3 +7,8 @@ React, Flux, JS
 GO
 # DB:
 MongoDB
+
+# Setup instruction
+1. Install yarn - https://yarnpkg.com/en/
+2. yarn start
+
