@@ -9,6 +9,6 @@ GO
 MongoDB
 
 # Setup instruction
-1. Install yarn - https://yarnpkg.com/en/
+1. yarn install
 2. yarn start
 
